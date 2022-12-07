@@ -38,7 +38,7 @@ namespace WebApplication10 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxCallbackPanel.ASPxCallbackPanel ASPxCallbackPanel1;
+        protected global::DevExpress.Web.ASPxCallbackPanel ASPxCallbackPanel1;
         
         /// <summary>
         /// ASPxGridView1 control.
@@ -47,7 +47,7 @@ namespace WebApplication10 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxGridView.ASPxGridView ASPxGridView1;
+        protected global::DevExpress.Web.ASPxGridView ASPxGridView1;
         
         /// <summary>
         /// ASPxGridView2 control.
@@ -56,6 +56,6 @@ namespace WebApplication10 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxGridView.ASPxGridView ASPxGridView2;
+        protected global::DevExpress.Web.ASPxGridView ASPxGridView2;
     }
 }

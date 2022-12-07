@@ -41,7 +41,7 @@ Namespace WebApplication10
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxCallbackPanel1 As Global.DevExpress.Web.ASPxCallbackPanel.ASPxCallbackPanel
+		Protected ASPxCallbackPanel1 As Global.DevExpress.Web.ASPxCallbackPanel
 
 		''' <summary>
 		''' ASPxGridView1 control.
@@ -50,7 +50,7 @@ Namespace WebApplication10
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxGridView1 As Global.DevExpress.Web.ASPxGridView.ASPxGridView
+		Protected ASPxGridView1 As Global.DevExpress.Web.ASPxGridView
 
 		''' <summary>
 		''' ASPxGridView2 control.
@@ -59,6 +59,6 @@ Namespace WebApplication10
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxGridView2 As Global.DevExpress.Web.ASPxGridView.ASPxGridView
+		Protected ASPxGridView2 As Global.DevExpress.Web.ASPxGridView
 	End Class
 End Namespace

@@ -74,7 +74,7 @@ namespace WebApplication10
 
         }
 
-        protected void ASPxCallbackPanel1_Callback(object source, DevExpress.Web.ASPxClasses.CallbackEventArgsBase e)
+        protected void ASPxCallbackPanel1_Callback(object source, DevExpress.Web.CallbackEventArgsBase e)
         {
             string[] pars = e.Parameter.Split(';');
             int index = Convert.ToInt32(pars[0]);

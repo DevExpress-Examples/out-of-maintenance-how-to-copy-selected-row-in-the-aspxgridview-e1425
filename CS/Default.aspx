@@ -1,10 +1,10 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="WebApplication10._Default" %>
 
-<%@ Register assembly="DevExpress.Web.v13.1"  namespace="DevExpress.Web.ASPxGridView" tagprefix="dxwgv" %>
-<%@ Register assembly="DevExpress.Web.v13.1" namespace="DevExpress.Web.ASPxEditors" tagprefix="dxe" %>
+<%@ Register assembly="DevExpress.Web.v15.1"  namespace="DevExpress.Web" tagprefix="dxwgv" %>
+<%@ Register assembly="DevExpress.Web.v15.1" namespace="DevExpress.Web" tagprefix="dxe" %>
 
-<%@ Register assembly="DevExpress.Web.v13.1"  namespace="DevExpress.Web.ASPxCallbackPanel" tagprefix="dxcp" %>
-<%@ Register assembly="DevExpress.Web.v13.1" namespace="DevExpress.Web.ASPxPanel" tagprefix="dxp" %>
+<%@ Register assembly="DevExpress.Web.v15.1"  namespace="DevExpress.Web" tagprefix="dxcp" %>
+<%@ Register assembly="DevExpress.Web.v15.1" namespace="DevExpress.Web" tagprefix="dxp" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 

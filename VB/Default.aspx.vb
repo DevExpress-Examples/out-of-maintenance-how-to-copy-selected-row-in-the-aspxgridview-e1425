@@ -68,7 +68,7 @@ Namespace WebApplication10
 
 		End Sub
 
-		Protected Sub ASPxCallbackPanel1_Callback(ByVal source As Object, ByVal e As DevExpress.Web.ASPxClasses.CallbackEventArgsBase)
+		Protected Sub ASPxCallbackPanel1_Callback(ByVal source As Object, ByVal e As DevExpress.Web.CallbackEventArgsBase)
 			Dim pars() As String = e.Parameter.Split(";"c)
 			Dim index As Integer = Convert.ToInt32(pars(0))
 			If pars(1) = "y" Then
